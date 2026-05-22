@@ -4,6 +4,7 @@
 
 Dette projekt demonstrerer forskellige softwaretestmetoder anvendt på et simpelt login-system. Fokus ligger på inputvalidering, password-regler, brute force-beskyttelse, CRUD-funktionalitet samt testpyramiden.
 
+**Navn:** Lawin Bamarne
 **Dato:** 05-02-2026  
 **Projekt:** Demonstration af testteknikker i loginmoduler
 
